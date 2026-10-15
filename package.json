@@ -21,7 +21,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.1",
-    "typescript": "^5",
+    "typescript": "^6",
     "vitest": "^5"
   },
   "description": "Next.js starter: check a package.json or requirements.txt for risky dependencies with the free Presend API",
